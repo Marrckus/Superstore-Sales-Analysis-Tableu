@@ -14,7 +14,7 @@ Order volume and revenue do not always align across states, providing insights f
 ![Dashboard 2](screenshots/Sales_by_Seg-Cat.png)
 
                      ------------------------------------------ Insight: ------------------------------------------
-Revenue is concentrated in specific categories and their key segments. The stacked bars highlight which products contribute most to each category, while sales, average order value, and order volume metrics help identify top-performing areas.
+Revenue is concentrated in specific categories and their key segments. The stacked bars highlight which products contribute most to each category, while sales, average order value, and order volume metrics help identify top-performing areas.                                                                    
                                                                Conclusion: 
 Focusing on strong segments and categories allows optimizing marketing and sales strategies, identifying priority products and customer groups.
 
@@ -22,6 +22,6 @@ Focusing on strong segments and categories allows optimizing marketing and sales
 ![Dashboard 3](screenshots/Sales_Trend_by_Date.png)
 
                      ------------------------------------------ Insight: ------------------------------------------
-The line chart shows a clear upward trend in average sales over the years, indicating steady growth. The heatmap visualizes revenue changes as a percentage relative to the same month of the previous year, highlighting periods of growth and decline across months and years.
+The line chart shows a clear upward trend in average sales over the years, indicating steady growth. The heatmap visualizes revenue changes as a percentage relative to the same month of the previous year, highlighting periods of growth and decline across months and years.                                        
                                                                Conclusion: 
 Sales are growing year over year, with seasonal variations in profit. This information helps plan resources and make strategic business decisions.
