@@ -1,4 +1,4 @@
-                                                  --- Sales Trends Analysis Dashboards ---
+  #Sales Trends Analysis Dashboards ---
 This repository contains three dashboards analyzing sales performance and yearly growth trends using Python and Tableau. Screenshots included for quick preview.
 
                                                               Dashboard 1: 
