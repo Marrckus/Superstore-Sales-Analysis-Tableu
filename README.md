@@ -6,7 +6,7 @@ This repository contains three dashboards analyzing sales performance and yearly
 ![Dashboard 1](screenshots/Sales_Dist_by_State.png)
 
                      ------------------------------------------ Insight: ------------------------------------------
-The bar chart shows the number of orders by state, while the map visualizes revenue by state. Interestingly, states with the highest number of orders are not always the ones generating the most revenue, highlighting different performance patterns.The filter allows exploring additional states beyond the top performers.                                                                                                                                                
+The bar chart shows the number of orders by state, while the map visualizes revenue by state. Interestingly, states with the highest number of orders are not always the ones generating the most revenue, highlighting different performance patterns.The filter allows exploring additional states beyond the top performers.                                                                                                                                                      
                                                                Conclusion: 
 Order volume and revenue do not always align across states, providing insights for targeted sales and marketing strategies.
 
